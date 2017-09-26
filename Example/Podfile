@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'UIImageExtension_Example' do
+  pod 'UIImageExtension', :path => '../'
+
+  target 'UIImageExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
