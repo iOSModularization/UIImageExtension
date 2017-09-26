@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of UIImageExtension.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/ivsall2012/UIImageExtension",
+  "homepage": "https://github.com/iOSModularization/UIImageExtension",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "ivsall2012": "ivsall2012@gmail.com"
   },
   "source": {
-    "git": "https://github.com/ivsall2012/UIImageExtension.git",
+    "git": "https://github.com/iOSModularization/UIImageExtension.git",
     "tag": "0.1.0"
   },
   "platforms": {
